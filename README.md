@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Saleh</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+<h3 align="center">A passionate full stack developer from New York</h3>
 
 - 🌱 I’m currently learning **elasticsearch, C++**
 
